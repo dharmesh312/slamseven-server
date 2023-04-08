@@ -1,0 +1,18 @@
+1. Make admin and player roleId accesstoken management (Check auth access token)
+
+2. Differentiate amdin & player routes
+
+## Controllers
+
+3. Participants CRUD
+
+4. Player - password management
+
+5. Wallets 
+
+6. Game 
+
+7. GameParticipants
+
+8. Tickets & Selections
+
